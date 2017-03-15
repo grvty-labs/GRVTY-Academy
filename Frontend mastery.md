@@ -134,7 +134,9 @@ the imports go at the start of the file, we only have one big class which contai
 Note that we are using *@media(--mobile-screen)* this variable is defined on *waddles/settings.pcss* so check that file out if you have any doubts of what spectrum of devices you are covering with that media query. 
 
 and well 
+
 ![](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
+
 The best way to learn somenthing is by practicing and asking questions. So don't be afraid to do so. Here I layed out what I had to do in order to learn, feel free to contribute with anything you believe will be helpful. 
 
 *Last edition: @pologarcia march 15, 2017.*
