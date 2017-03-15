@@ -16,24 +16,24 @@ Those are the two first installments of the Postcss series in webtuts, we encour
 
 Well at this point you know that postcss works with plugins (at least I hope so) here is a list of all the plugins we currently use. If you want to add one more, chat with the development team and then add it here 😎
 
-#### [Lost Grid 🗺](http://lostgrid.org/docs.html)
+#### Lost Grid 🗺
 
 * [Read the documents](http://lostgrid.org/docs.html)
 * [Basic Lost video tutorial (see episodes 7 throught 13)](https://www.youtube.com/watch?v=e3J4wZWlQUk)
 
-#### [CSS next 🚙](http://cssnext.io/features/)
+#### CSS next 🚙
 
 * [Read the documents](http://cssnext.io/features/)
 
-#### [PostCSS mixins 📝](https://github.com/postcss/postcss-mixins)
+#### PostCSS mixins 📝
 
 * [Read the documents](https://github.com/postcss/postcss-mixins)
 
-#### [PostCSS partial import](https://github.com/jonathantneal/postcss-partial-import)
+#### PostCSS partial import ✂️
 
 * [Read the documents](https://github.com/jonathantneal/postcss-partial-import)
 
-#### [PostCSS zindex order](https://github.com/ben-eb/postcss-zindex)
+#### PostCSS zindex order 📏
 
 * [Read the documents](https://github.com/ben-eb/postcss-zindex)
 
@@ -43,3 +43,4 @@ We use some others plugins, but they're used in the background when webpack or b
 * postcss-minify-params
 * postcss-minify-selectors
 * postcss-will-change
+
