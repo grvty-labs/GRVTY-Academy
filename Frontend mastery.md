@@ -59,12 +59,12 @@ Here is the simple structure we follow to develop our frontend.
     |- ...
   |- Vendors
     |- animatecss.pcss
-  |- [Page name]
+  |- [Page specific folder]
   |- app.pcss
 ```
 
 Waddles contains our base styles, from there we boostrap, so every project contains a basic skeleton of waddles.
-Any component style that will be re-used through out the page should live there for now waddles contains the following files, if you want solid examples of what waddles contains (navigate this project)[https://github.com/grvty-labs/IQ-Produccion/tree/develop/iq_produccion/web/static/css/waddles]:
+Any component style that will be re-used through out the page should live there for now waddles contains the following files, if you want solid examples of what waddles contains [navigate this project](https://github.com/grvty-labs/IQ-Produccion/tree/develop/iq_produccion/web/static/css/waddles):
 
 * **settings.pcss:** *global variables for the aplication, remember DRY*
 * **base.pcss:** *general html styles, like body styles. General styles like font sizes, background color etc.*
@@ -76,3 +76,65 @@ Any component style that will be re-used through out the page should live there 
 * **waddles.pcss:** *here we import only the files we need, we expect waddles to grow in the following projects. So naturally you might not need all the files in the future*
 
 That's pretty much it for waddles, as we mentioned before we expect waddles to grow so when adding files to waddles keep in mind to make the classes modular, easy to read and modify. 
+
+#### Page Specific files
+
+Page specific folders contain styles for pages, things like how a page is layed out, etc. 
+
+##### Folder structure
+Here it is an example of the structure inside a page specific folder:
+
+```
+|- Home
+  |- main.pcss
+  |- hd.pcss
+  !- desktop.pcss
+  |- mobile.pcss
+  |- tablet.pcss
+```
+
+This example works for responsive web applications, in **main.pcss** lives all the general css styles. While in every other file lives size specific specifications. So avoid using lost declarations in **main.pcss** when the application will be responsive, (believe me it ain't fun to find out that the weird behaviour comes from a lost-offset you leaved in **main.pcss** )
+
+###### main.pcss layout
+
+main.pcss layout looks as follows:
+
+```css
+@import '../../waddles/settings';
+@import './hd';
+@import './desktop';
+@import './tablet';
+@import './mobile';
+
+.main-container-class{
+
+}
+
+@add-mixin hd-hero;
+@add-mixin desktop-hero;
+@add-mixin tablet-hero;
+@add-mixin mobile-hero;
+```
+the imports go at the start of the file, we only have one big class which contains all the styles. And finally the mixins of media query go in the bottom. 
+
+###### media query file layout
+
+```scss
+
+@import '../../waddles/settings';
+
+@define-mixin mobile-hero {
+   @media (--mobile-screens) {
+     .hero {
+      padding-top: calc(1.5rem*4);
+      }
+   }
+}
+```
+Note that we are using *@media(--mobile-screen)* this variable is defined on *waddles/settings.pcss* so check that file out if you have any doubts of what spectrum of devices you are covering with that media query. 
+
+and well 
+![](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
+The best way to learn somenthing is by practicing and asking questions. So don't be afraid to do so. Here I layed out what I had to do in order to learn, feel free to contribute with anything you believe will be helpful. 
+
+*Last edition: @pologarcia march 15, 2017.*
