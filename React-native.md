@@ -1,5 +1,6 @@
-#The lets do some react native from zero to hero guide
-![react native logo](http://frostney.github.io/talks/react-native/slides/images/react-logo.png)
+# React Native ⚛
+
+The lets do some react native from zero to hero guide
 
 No idea of what React is go here or [read this](https://github.com/petehunt/react-howto#learning-javascript-bundlers)
 
