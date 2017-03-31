@@ -10,8 +10,12 @@ Welcome to grvty academy, we strongly believe that sharing knowledge is the best
 * ### [Typography](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Typography.md) 📗:
   We are typography geeks, and believe it is a great factor in developing a good UI in any system. Come take a look in what we have read.
 
+* ### [FrontEnd Archive](https://github.com/grvty-labs/GRVTY-Academy/blob/master/FrontendArchive.md) 📚:
+  A compilation on modern frontend development, from understanding CSS to some cool advanced things. 
+
 * ### [FrontEnd Mastery](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Frontend%20mastery.md) 🛠:
   Discover how our frontend flow works, what tools do we use, how we structure media queries. 
+  
 
 ### More to come soon 🙌🏿
 
