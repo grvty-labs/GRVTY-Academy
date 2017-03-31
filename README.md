@@ -1,11 +1,22 @@
 # GRVTY-Academy
-=======
-List of different resources that has been used by the GRVTY team so you can learn cool stuff. 
 
-##[React Native](https://github.com/grvty-labs/GRVTY-Academy/blob/master/React-native.md)
-Compilation of resources to get you started in react native
+Welcome to grvty academy, we strongly believe that sharing knowledge is the best way to improve the world we live. So in order to share with the community what we have learned, cool articles and so on we created this little project. Hope you like it and find it useful, if you have any input about it don't hesitate to contact us at [Our site](http://grvty.digital/)
 
-Brought to you by
+### Index 👇
+
+### [React Native](https://github.com/grvty-labs/GRVTY-Academy/blob/master/React-native.md) ⚛:
+Compilation of resources to get you started in react native. 
+
+### [Typography](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Typography.md) 📗:
+We are typography geeks, and believe it is a great factor in developing a good UI in any system. Come take a look in what we have read.
+
+### [FrontEnd Mastery](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Frontend%20mastery.md): 🛠
+Discover how our frontend flow works, what tools do we use, how we structure media queries. 
+
+#### More to come soon 🙌🏿
+
+
+Made with ❤️ by:
 --------
 
 
