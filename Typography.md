@@ -6,7 +6,7 @@ In this archive you'll find information regarding typography, from interesting a
 
 #### [Improving Web and Mobile App Typography - 5 basic guidelines](https://www.youtube.com/watch?v=O3fVMm-Ef0Y)
 #### [Typography Tutorial - 10 rules to help you rule type](https://www.youtube.com/watch?v=QrNi9FmdlxY)
-#### [Vertical rythms](https://zellwk.com/blog/why-vertical-rhythms/)
+#### [Vertical rhythms](https://zellwk.com/blog/why-vertical-rhythms/)
 #### [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891)
 #### [How to use typography in UI Design](https://blog.prototypr.io/how-to-use-typography-in-ui-design-ce045fa4ff2e)
 #### [Improving UI Design Through Better Typography](https://www.awwwards.com/improving-ui-design-through-better-typography.html)
@@ -25,7 +25,7 @@ In this archive you'll find information regarding typography, from interesting a
 
 ## Useful CSS tips 💡
 
-One of the hardest parts for CSS implementation is to preserve the vertical rythm coherence, so be sure to define the line-height for every element of text in your design. Mantaining stuff aligned when aside is one of the challenges we found when implementing this vertical rythms in our designs, the best solution we found for aligning parallel stuff is using the `` align-items: baseline; `` 
+One of the hardest parts for CSS implementation is to preserve the vertical rhythm coherence, so be sure to define the line-height for every element of text in your design. Mantaining stuff aligned when aside is one of the challenges we found when implementing this vertical rhythms in our designs, the best solution we found for aligning parallel stuff is using the `` align-items: baseline; `` 
 
 
 ###### Last edition: @pologarcia march 31, 2017 🤙🏿
