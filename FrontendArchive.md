@@ -18,6 +18,7 @@ We embrace modern CSS, by using flexbox and so on. Here we share with you intere
 ### Flexbox
 #### [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
 #### [Even more about how Flexbox works — explained in big, colorful, animated gifs](https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053)
+#### [Flexbox Zombies—an awesome online course for mastering flexbox](http://flexboxzombies.com/p/flexbox-zombies)
 ---
 ### Animations
 #### [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
