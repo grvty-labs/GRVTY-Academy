@@ -10,6 +10,7 @@ In this archive you'll find information regarding typography, from interesting a
 #### [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891)
 #### [How to use typography in UI Design](https://blog.prototypr.io/how-to-use-typography-in-ui-design-ce045fa4ff2e)
 #### [Improving UI Design Through Better Typography](https://www.awwwards.com/improving-ui-design-through-better-typography.html)
+#### [More Perfect typography](https://vimeo.com/17079380)
 #### [Tipografía en la era digital](https://medium.com/aerolab-stories/tipograf%C3%ADa-en-la-era-digital-e5f96d9a7dda)** *Article in Spanish*
 
 ## Utility tools 🛠
