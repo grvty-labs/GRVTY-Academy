@@ -36,4 +36,4 @@ We embrace modern CSS, by using flexbox and so on. Here we share with you intere
 ---
 
 ###### Last edit by: @grvty-labs August 19, 2017
-Created by: @pologarcia March 31, 2017 🤙🏿
+###### Created by: @pologarcia March 31, 2017 🤙🏿
