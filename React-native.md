@@ -63,3 +63,8 @@ No idea of what React is go here or [read this](https://github.com/petehunt/reac
 
 [React native vector icons](https://github.com/oblador/react-native-vector-icons)
 
+
+## Writing Great Unit Tests (Added August 29, 2017)
+
+[Writing Great Unit Tests: Best and Worst Practices](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
+
