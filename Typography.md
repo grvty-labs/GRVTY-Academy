@@ -11,6 +11,10 @@ In this archive you'll find information regarding typography, from interesting a
 #### [How to use typography in UI Design](https://blog.prototypr.io/how-to-use-typography-in-ui-design-ce045fa4ff2e)
 #### [Improving UI Design Through Better Typography](https://www.awwwards.com/improving-ui-design-through-better-typography.html)
 #### [More Perfect typography](https://vimeo.com/17079380)
+#### [10 Practical Steps to create a Predictable accesible and Harmonious Typography System](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
+
+
+
 #### [Tipografía en la era digital](https://medium.com/aerolab-stories/tipograf%C3%ADa-en-la-era-digital-e5f96d9a7dda)** *Article in Spanish*
 
 ## Utility tools 🛠
@@ -29,4 +33,5 @@ In this archive you'll find information regarding typography, from interesting a
 One of the hardest parts for CSS implementation is to preserve the vertical rhythm coherence, so be sure to define the line-height for every element of text in your design. Mantaining stuff aligned when aside is one of the challenges we found when implementing this vertical rhythms in our designs, the best solution we found for aligning parallel stuff is using the `` align-items: baseline; `` 
 
 
-###### Last edition: @pologarcia march 31, 2017 🤙🏿
+###### Created: @pologarcia March 31, 2017 🤙🏿
+###### Last Edited: @grvtylabs August 30, 2017
