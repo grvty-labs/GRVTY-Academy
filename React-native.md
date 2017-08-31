@@ -68,3 +68,6 @@ No idea of what React is go here or [read this](https://github.com/petehunt/reac
 
 [Writing Great Unit Tests: Best and Worst Practices](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
 
+## React Native: Beginner’s cheat sheet questionnaire
+
+[React Native: Beginner’s cheat sheet questionnaire](https://codeburst.io/react-native-beginners-cheat-sheet-questionnaire-ad0fad97b9a7)
