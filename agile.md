@@ -15,19 +15,19 @@ There's no secret, we are big fans of how Intercom. We have collected a list of 
 
 **Issue Title:** High level summary for the JTBD. Optimize the title for team understanding.
 **Issue Description:**
-  **When / Situation**: What happens in the users context that makes the user want to do an action.
-  **User Motivation**: What the users want to solve for in order to maximize a gain or reduce a pain.
-  **So that:** What does the user expect to be able to do.
-  **Expected Outcome:** What would the user consider a successful outcome.
+  - **When / Situation**: What happens in the users context that makes the user want to do an action.
+  - **User Motivation**: What the users want to solve for in order to maximize a gain or reduce a pain.
+  - **So that:** What does the user expect to be able to do.
+  - **Expected Outcome:** What would the user consider a successful outcome.
   
-  **Tasks:** Details on activities related to the task. E.G. Design Screen.
+  - **Tasks:** Details on activities related to the task. E.G. Design Screen.
   
 **Issue Title:** Michael is hungry at the theatre's queue and doesn't want to stand in line again to grab food.
 **Issue Description:**
-  **When / Situation**: When Michael is in line at the Movie-theatre for a film premiere and is feeling hungry.
-  **User Motivation**: Michael wants to pre-order for and pick it up inmediately.
-  **So that:** He can go straight into the screening room without standing in line again.
-  **Expected Outcome:** A screen where he can pick and pay for a bucket of pop-corn.
+  - **When / Situation**: When Michael is in line at the Movie-theatre for a film premiere and is feeling hungry.
+  - **User Motivation**: Michael wants to pre-order for and pick it up inmediately.
+  - **So that:** He can go straight into the screening room without standing in line again.
+  - **Expected Outcome:** A screen where he can pick and pay for a bucket of pop-corn.
   
   **Tasks:** Details on activities related to the task. E.G. Design Screen.
   
