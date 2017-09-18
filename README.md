@@ -16,7 +16,7 @@ Welcome to grvty academy, we strongly believe that sharing knowledge is the best
 * ### [FrontEnd Mastery](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Frontend%20mastery.md) 🛠:
   Discover how our frontend flow works, what tools do we use, how we structure media queries. 
   
-* ### [Product Management & Agile Developmeny](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Agile.md) :
+* ### [Product Management & Agile Developmeny](https://github.com/grvty-labs/GRVTY-Academy/blob/master/agile.md) :
   A curation of post regarding Jobs to be Done, Agile development, backlog grooming and more.  
   
 ### More to come soon 🙌🏿
