@@ -28,6 +28,9 @@ No idea of what React is go here or [read this](https://github.com/petehunt/reac
 ## WTF is redux?
 [Cool serie of video tutorials explaining redux](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
+## Redux. Best Practices
+[Redux. Best Practices](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/)
+
 
 ## Ok now you get redux, lets turn up a notch and understand thunk, promise and saga
 [Redux overview of thunk vs Saga vs Observable vs Redux Promise](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc#.vi14lqivq) slides of this article [here](http://slides.com/dabit3/deck-11-12#/)
