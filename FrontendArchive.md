@@ -34,6 +34,12 @@ We embrace modern CSS, by using flexbox and so on. Here we share with you intere
 #### [CSS code examples](https://codepen.io/)
 #### [Brain Food Mobile Performance](https://www.awwwards.com/brainfood-mobile-performance-vol3.pdf)
 ---
+### Some Great Blogs
+#### [Marvelapp](blog.marvelapp.com)
+#### [Medium](medium.com/design)
+#### [Smashing Magazine](smashingmagazine.com)
+#### [Web Designer News](webdesignernews.com)
+#### [Sitepoint](sitepoint.com/design-ux) 
 
 ###### Last edit by: @grvty-labs August 19, 2017
 ###### Created by: @pologarcia March 31, 2017 🤙🏿
