@@ -25,6 +25,8 @@ No idea of what React is go here or [read this](https://github.com/petehunt/reac
 
 [Animations 😎](https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae#.hpet1bb2m)
 
+[Everything you'll want to know before styling in React Native.](https://www.okgrow.com/posts/react-native-styling-tips)
+
 ## WTF is redux?
 [Cool serie of video tutorials explaining redux](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
