@@ -34,6 +34,8 @@ No idea of what React is go here or [read this](https://github.com/petehunt/reac
 
 [Redux VS Realm](https://blog.qmo.io/the-problems-with-redux-and-alternatives-local-state-mobx-realm/)
 
+[Building Offline First React Native Apps](https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009)
+
 
 ## Ok now you get redux, lets turn up a notch and understand thunk, promise and saga
 [Redux overview of thunk vs Saga vs Observable vs Redux Promise](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc#.vi14lqivq) slides of this article [here](http://slides.com/dabit3/deck-11-12#/)
