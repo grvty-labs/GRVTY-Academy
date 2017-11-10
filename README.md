@@ -6,6 +6,9 @@ Welcome to grvty academy, we strongly believe that sharing knowledge is the best
 
 * ### [React Native](https://github.com/grvty-labs/GRVTY-Academy/blob/master/React-native.md) ⚛:
   Compilation of resources to get you started in react native. 
+  
+* ### [GraphQL](https://github.com/grvty-labs/GRVTY-Academy/blob/master/GraphQL.md) ⚛:
+  Thinking in GraphQL
 
 * ### [Typography](https://github.com/grvty-labs/GRVTY-Academy/blob/master/Typography.md) 📗:
   We are typography geeks, and believe it is a great factor in developing a good UI in any system. Come take a look in what we have read.
