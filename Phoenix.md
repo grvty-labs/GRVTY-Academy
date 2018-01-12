@@ -4,6 +4,8 @@
 
 ##First learn elixir
 
+[Working with Supervisors in Elixir](http://culttt.com/2016/09/07/working-supervisors-elixir/)
+
 ##Templating
 
 ##Bundlers
